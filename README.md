@@ -1,2 +1,2 @@
-# simple-image-recognition
-Here I aim to write a DL model to do simple image recognition using pytorch-lightning
+# text-translation
+Here I aim to to do English-French translation using pytorch based on various state of art approaches as explained in https://github.com/bentrevett/pytorch-seq2seq
